@@ -1,0 +1,10 @@
+.cache
+.png
+/.nb-gradle
+*build
+/target
+*.idea
+*.iml
+*.gradle
+*.DS_Store
+out/
